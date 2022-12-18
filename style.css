@@ -53,16 +53,16 @@ header {
   flex-basis: 100%;
 }
 .item1 {
-  background-image: url("/img/contacts.jpg");
+  background-image: url("../img/contacts.jpg");
 }
 .item2 {
-  background-image: url("/img/education.jpg");
+  background-image: url("../img/education.jpg");
 }
 .item3 {
-  background-image: url("/img/skills.jpg");
+  background-image: url("../img/skills.jpg");
 }
 .item4 {
-  background-image: url("/img/hobby.jpg");
+  background-image: url("../img/hobby.jpg");
 }
 main {
     position: relative;
@@ -70,7 +70,7 @@ main {
 article {
     height: 50vh;
     width: 98vw;
-    background-image: url("/img/main.jpg");
+    background-image: url("../img/main.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
